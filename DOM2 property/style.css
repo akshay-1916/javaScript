@@ -1,0 +1,15 @@
+#heading{
+    color:aqua;
+    background-color: black;
+    text-align: center;
+}
+
+pre{
+    color: blue;
+    background: fixed;
+    background-color: pink;
+}
+
+body{
+    background-color: antiquewhite;
+}
